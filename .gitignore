@@ -351,3 +351,4 @@ MigrationBackup/
 
 # Python Environments
 devenv/*
+Source/db.sqlite3
