@@ -16,4 +16,7 @@ django-admin startproject SimpleCart .
 
 # Run the server
 python .\manage.py runserver
+
+python .\manage.py collectstatic
+
 ```
