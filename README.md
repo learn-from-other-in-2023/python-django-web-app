@@ -1,4 +1,5 @@
 # python-django-web-app
+
 Simple Web Application using Python Django
 
 ```python
@@ -18,5 +19,8 @@ django-admin startproject simplecart .
 python .\manage.py runserver
 
 python .\manage.py collectstatic
+
+# Create a new app
+python .\manage.py startapp category
 
 ```
