@@ -26,4 +26,6 @@ python .\manage.py startapp category
 python -m pip install Pillow
 
 python .\manage.py makemigrations
+
+python .\manage.py migrate
 ```
