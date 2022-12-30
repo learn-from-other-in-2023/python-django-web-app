@@ -12,7 +12,7 @@ pip install django==3.1
 pip freeze
 
 # Create a new project
-django-admin startproject SimpleCart .
+django-admin startproject simplecart .
 
 # Run the server
 python .\manage.py runserver
